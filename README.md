@@ -1,4 +1,4 @@
-Olá, eu sou o Gabriel Raposo!
+Olá, eu sou o Gabriel!
 
 <div align="left">
   <a href="https://github.com/rafaballerini">
