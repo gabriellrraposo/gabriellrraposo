@@ -1,5 +1,6 @@
 Olá, eu sou o Gabriel!
 
+<!---[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriellrraposo)](https://github.com/gabriellrraposo/github-readme-stats) -->
 <div align="left">
   <a href="https://github.com/gabriellrraposo?tab=repositories">
   <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellrraposo&layout=compact&langs_count=7&theme=radical"/>
